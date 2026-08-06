@@ -21,10 +21,12 @@
 * 🔥 Interested in clean code, modern development practices, and problem solving
 * 🚀 Focused on creating projects that make an impact
 
-<br/>
- 🛠️ Tech Stack
-<div align="left">
+<br>
 
+## 🛠️ Tech Stack
+
+<div align="left">
+  <br>
   🎨 Frontend
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react&theme=dark" />
