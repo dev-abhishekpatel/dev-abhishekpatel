@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Abhishek+Patel;Developer+%7C+Creator+%7C+Learner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Abhishek+Patel;Developer+%7C+Creator+%7C+Learner" />
 
 </div>
 
