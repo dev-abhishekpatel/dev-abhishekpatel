@@ -54,8 +54,6 @@ Tools:
 ✨ Improve coding skills through projects
 ✨ Create simple and efficient solutions
 
----
-
 ## 📊 GitHub Journey
 
 <div align="center">
@@ -63,6 +61,30 @@ Tools:
 🚀 Code • Create • Learn • Improve
 
 </div>
+
+-------
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="mailto:abhishekpatel71773@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+</a>
+
+<a href="https://new-da04f.web.app/" target="_blank">
+  <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
+</a>
+
+<a href="https://github.com/dev-abhishekpatel" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub"/>
+</a>
+
+</div>
+
+---
 
 ---
 
@@ -74,17 +96,6 @@ Tools:
 <br/>
 
 
-🌐 Connect With Me
-
-<div align="center">
-
-📧 Email: abhishekpatel71773@gmail.com
-
-🌍 Portfolio: https://new-da04f.web.app/
-
-💻 GitHub: https://github.com/dev-abhishekpatel
-
-</div>
 <div align="center">
 
 ### Thanks for visiting my profile! ⭐
