@@ -22,28 +22,40 @@
 * 🚀 Focused on creating projects that make an impact
 
 <br/>
-## 🛠️ Tech & Tools
+ 🛠️ Skills & Technologies
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```text
-Languages:
-• JavaScript
-• Python
-• HTML
-• CSS
+ 💻 Programming Languages
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Development:
-• Web Development
-• Backend Development
-• APIs
-• Database Management
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-Tools:
-• Git
-• GitHub
-• VS Code
-• Developer Tools
-```
+
+ 🌐 Development
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p>
+<img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Development-009688?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Management-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+
+ 🔧 Tools
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
 <br/>
 
 
@@ -66,25 +78,38 @@ Tools:
 </div>
 
 </br>
-
- 🌐 Connect With Me
+ 📊 GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="left">
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-abhishekpatel&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishekpatel&theme=tokyonight"/>
+
+</p>
+<br/>
+
+
+ 🤝 Connect With Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<p align="center">
+
+<a href="https://github.com/dev-abhishekpatel/ABHISHEKPATEL8839">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://new-da04f.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
 
 <a href="mailto:abhishekpatel71773@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://new-da04f.web.app/" target="_blank">
-  <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio"/>
-</a>
-
-<a href="https://github.com/dev-abhishekpatel" target="_blank">
-  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub"/>
-</a>
-
-</div>
+</p>
 <br/>
 
 🌟 Featured Mindset
@@ -105,3 +130,8 @@ Tools:
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+
+
+
