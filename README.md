@@ -71,7 +71,20 @@ Tools:
 > "Great software is built with curiosity, consistency, and continuous improvement."
 
 ---
+<br/>
 
+
+🌐 Connect With Me
+
+<div align="center">
+
+📧 Email: abhishekpatel71773@gmail.com
+
+🌍 Portfolio: https://new-da04f.web.app/
+
+💻 GitHub: https://github.com/dev-abhishekpatel
+
+</div>
 <div align="center">
 
 ### Thanks for visiting my profile! ⭐
