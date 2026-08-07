@@ -1,17 +1,18 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;I'm+Abhishek+Patel;Developer+%7C+Creator+%7C+Learner" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/main/readmebox.svg" width="900" />
 </div>
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile" />
+
+</div>
 <div align="center">
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Building+Modern+Digital+Solutions;Learning+New+Technologies+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=FULL+STACK+DEVELOPER;Developer+Creator+Learner" />
 </p>
 </div>
 
