@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
@@ -92,8 +94,13 @@
 
 </p>
 <br/>
-
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/github-snake.svg">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
  🤝 Connect With Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
