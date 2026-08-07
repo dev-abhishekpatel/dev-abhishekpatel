@@ -99,7 +99,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/github-snake.svg">
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
  🤝 Connect With Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
