@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   workflow_dispatch:
@@ -7,18 +7,19 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: dev-abhishekpatel
           outputs: |
             dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push output
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
