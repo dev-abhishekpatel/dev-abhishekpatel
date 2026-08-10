@@ -140,7 +140,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Profile!" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=75&section=footer" />
 </div>
-
+![Profile animation](https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/path/to/image.gif)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
