@@ -1,6 +1,4 @@
- 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 <div align="center">
   <img src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/main/readmebox.svg" width="900" />
