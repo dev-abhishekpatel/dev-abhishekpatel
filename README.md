@@ -12,7 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=FULL+STACK+DEVELOPER;Developer+Creator+Learner" />
 </p>
 </div>
-
 <br/>
  🧑‍💻 About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
