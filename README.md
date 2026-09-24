@@ -24,11 +24,10 @@
 <br>
 
 ## 🛠️ Tech Stack
-## `> tech_stack`
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,linux,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,linux,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
@@ -37,23 +36,7 @@
 
 <div align="left">
   <br>
-  🎨 Frontend
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,ts,angular,react&theme=dark" />
 
-<br/>
-
- ⚙️ Backend
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
-
-<br/>
-
-🗄️ Database
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-
-<br/>
 
 🚀 Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
