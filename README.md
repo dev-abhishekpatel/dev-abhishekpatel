@@ -37,13 +37,6 @@
 <div align="left">
   <br>
 
-
-🚀 Tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-
-<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&left=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Exploring+New+Technologies" />
 
 </div>
