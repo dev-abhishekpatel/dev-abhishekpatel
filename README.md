@@ -1,28 +1,3 @@
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph.svg">
-
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph.svg"
-      style="max-width: 100%;">
-  </picture>
-</div>
-
-
-
-
-
-
-
-
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
@@ -150,3 +125,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
+<div align="center">
+
+<a href="https://github.com/dev-abhishekpatel">
+  <img src="https://count.getloli.com/@dev-abhishekpatel?name=dev-abhishekpatel&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
+</a>
+
+</div>
