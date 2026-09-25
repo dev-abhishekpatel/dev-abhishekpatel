@@ -1,4 +1,4 @@
-name: Pac-Man Contribution Graph
+name: Pac-Man Contribution
 
 on:
   schedule:
@@ -14,13 +14,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v3
 
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Generate Pac-Man contribution graph
+      - name: Generate Pac-Man graph
         uses: AndreRuperto/svg-pacman-contributions@main
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,8 +29,8 @@ jobs:
           output_directory: dist
           player_style: oportunista
 
-      - name: Publish SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish SVG
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
