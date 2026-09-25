@@ -1,3 +1,4 @@
+```yaml
 name: Generate Pacman Contribution Graph
 
 on:
@@ -6,8 +7,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     permissions:
       contents: write
@@ -16,11 +18,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Generate Pacman Contribution Graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Create dist directory
+        run: mkdir -p dist
 
-      - name: Push generated files
-        uses: EndBug/add-and-commit@v9
+      - name: Generate Pacman contribution graph
+        uses: AndreRuperto/svg-pacman-contributions@main
         with:
-          message: "Update Pacman contribution graph"
-          default_author: github_actions
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          theme: github-dark
+          output_directory: dist
+
+      - name: Publish SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
