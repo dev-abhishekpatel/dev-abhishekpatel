@@ -1,4 +1,3 @@
-```yaml
 name: Generate Snake Animation
 
 on:
@@ -29,5 +28,3 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
-```
-
