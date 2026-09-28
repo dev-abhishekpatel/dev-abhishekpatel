@@ -1,3 +1,37 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Welcome+to+Abhishek's+profile"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph.svg"
+    >
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/dev-abhishekpatel/dev-abhishekpatel/output/pacman-contribution-graph.svg"
+      width="100%"
+    >
+  </picture>
+</div>
+
+<br>
+
+
+
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:00BFFF&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
