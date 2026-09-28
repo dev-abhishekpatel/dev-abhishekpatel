@@ -51,27 +51,32 @@
 ✨ Improve coding skills through projects
 ✨ Create simple and efficient solutions
 
-<br/>
 ## 📊 GitHub Journey
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
-🚀 Code • Create • Learn • Improve
+<a href="https://github.com/dev-abhishekpatel">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-abhishekpatel&theme=tokyonight" width="95%" />
+</a>
+
+<br>
+
+🚀 **Code • Create • Learn • Improve**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br><br>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishekpatel&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
-</br>
- 📊 GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-abhishekpatel&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishekpatel&theme=tokyonight"/>
-
-</p>
 <br/>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
