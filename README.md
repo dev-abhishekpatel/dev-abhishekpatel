@@ -23,7 +23,6 @@
 * 🚀 Focused on creating projects that make an impact
 
 <br>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
