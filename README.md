@@ -15,7 +15,6 @@
  🧑‍💻 About Me
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
 * 💡 Passionate developer who loves building useful and creative solutions
 * 🌱 Always learning new technologies and improving my skills
 * 🔥 Interested in clean code, modern development practices, and problem solving
