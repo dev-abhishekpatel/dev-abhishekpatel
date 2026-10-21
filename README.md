@@ -34,7 +34,30 @@
 <div align="left">
   <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&left=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Exploring+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?Har week apne account ke Professional Dashboard ya Insights mein check karo:
+
+Reach: Kitne unique accounts tak content pahuncha.
+
+Engagement: Likes, comments, shares aur saves ka response.
+
+Followers Growth: Kitne followers badhe ya kam hue.
+
+Watch Time: Log tumhari Reels kitni der dekh rahe hain.
+
+Profile Visits: Content dekhne ke baad kitne log profile par aaye.
+
+Jo content achha perform kare, uske topic aur format par aur content banao.
+
+5. Account Security aur Management
+Two-factor authentication (2FA) ON rakho.
+
+Strong aur unique password use karo.
+
+Unknown links aur suspicious DMs se bacho.
+
+Unknown third-party follower apps ko access mat do.
+
+Agar business account hai, toh messages, comments aur customer queries regularly manage karo.font=Poppins&weight=600&size=18&duration=2500&pause=1000&color=58A6FF&left=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Writing+Clean+%26+Scalable+Code;Exploring+New+Technologies" />
 
 </div>
 
@@ -141,7 +164,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 <div align="center">
 
