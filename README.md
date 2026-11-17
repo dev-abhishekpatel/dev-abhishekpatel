@@ -100,7 +100,6 @@
 
 > "Great software is built with curiosity, consistency, and continuous improvement."
 
-
 <br>
 
 <div align="center">
